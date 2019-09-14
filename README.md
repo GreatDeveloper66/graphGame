@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+##App Specifications
+This app involves producing a displaying a graph based on user specifications. In future versions, the app will also included functionality such as calculating shortest path between two nodes.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
