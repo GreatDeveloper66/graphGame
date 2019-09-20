@@ -69,3 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Purpose
+This app involves producing a graph and calculating minimum path distances between nodes. The first version or iteration of this app simply output a random nodes and paths.
